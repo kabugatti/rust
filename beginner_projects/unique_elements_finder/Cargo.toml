@@ -1,0 +1,6 @@
+[package]
+name = "unique_elements_finder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
