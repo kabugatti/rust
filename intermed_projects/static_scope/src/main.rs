@@ -6,7 +6,7 @@ mod static_global;
 use static_global::{GLOBAL_MESSAGE, GLOBAL_TIMESTAMP};
 
 fn main() {
-    // do_static_local_scope();
+    do_static_local_scope();
     do_static_global_scope();
 }
 
