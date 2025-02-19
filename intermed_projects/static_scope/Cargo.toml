@@ -1,0 +1,8 @@
+[package]
+name = "static_scope"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "*"
+once_cell = "*"
