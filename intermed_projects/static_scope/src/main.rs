@@ -24,3 +24,4 @@ fn do_static_global_scope() {
 fn do_static_mutable_demo() {
     static_mutable::do_it();
 }
+
