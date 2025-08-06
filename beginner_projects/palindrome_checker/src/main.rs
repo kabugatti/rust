@@ -31,7 +31,5 @@ fn is_palindrome(s: &String) -> bool {
     let reversed: String = cleaned.chars().rev().collect();
 
     // Compare and return result
-    let is_pal = cleaned == reversed;
-
-    is_pal
+    cleaned == reversed
 }
